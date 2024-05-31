@@ -3,12 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
-"assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+const RESOURCES = {"assets/AssetManifest.bin": "28341073bae4b923ac8de5264e5cdbee",
+"assets/AssetManifest.bin.json": "7416ed62d67e7a0b730e4ae6ea2c679f",
+"assets/AssetManifest.json": "fa2e12ea7f1ebf36def2c725e4050c55",
+"assets/assets/big-mac.jpg": "0219f6dd89c2dae9eb81c85cbd35c6c3",
+"assets/assets/double-cheese-burger.jpg": "5f7fee540c527eafb9df6ebd4148d3b3",
+"assets/assets/double-four-ounces-burger.jpg": "8ebcb90bea3d00a0e43d696a0d1c31e4",
+"assets/assets/double-mcchicken-burger.jpg": "dbcf8bef767a6b78e4045c97daf880db",
+"assets/assets/four-ounces-burger.jpg": "45767f527b16b7a898fa6a8cab45564a",
+"assets/assets/mcchicken-burger.jpg": "d1e398233458c355c42a9f8b9f069425",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "8ea08ea2444cc58ec5807fd7669e488f",
-"assets/NOTICES": "0a8d05c8b1869580511ed2082285c3f6",
+"assets/fonts/MaterialIcons-Regular.otf": "0db35ae7a415370b89e807027510caf0",
+"assets/NOTICES": "5a4cb1a17ce615260e6b97318b2f8293",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
@@ -27,11 +33,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "792038d585ccd7fee011051d8851fd4c",
-"/": "792038d585ccd7fee011051d8851fd4c",
-"main.dart.js": "aa5709caca8f74c462e8d504f7e175c7",
-"manifest.json": "1043bcb9ffa5f597fbc52257795dfe96",
-"version.json": "f47f7bb8efabdbe47184d72c60177493"};
+"index.html": "0e839177ab2691c17a37fcf8a555725f",
+"/": "0e839177ab2691c17a37fcf8a555725f",
+"main.dart.js": "8c84de3571a5af8a4f28af4f323f599c",
+"manifest.json": "0fe629cc9792bfcfd74de0cffce3fd43",
+"version.json": "edef3ec26140ac18d7ef25b597b214a3"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
